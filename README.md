@@ -17,6 +17,7 @@ Welcome to the **Grow-A-Garden-Script** repository! This project offers a unique
 ## 🌟 Features
 
 - **Automated Gardening**: Our script automates various gardening tasks, saving you time and effort.
+- **Dupe Plants**: Dupe ur plants and resell them for ever.
 - **User-Friendly Interface**: The GUI is designed for ease of use, making it accessible for all players.
 - **Customizable Settings**: Tailor the script to fit your gardening style and preferences.
 - **Regular Updates**: We keep the script updated to ensure compatibility with game changes.
